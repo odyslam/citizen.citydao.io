@@ -5,7 +5,7 @@ const { theme } = resolveConfig(tailwindConfig)
 
 module.exports = {
   siteMetadata: {
-    title: "citizens.citydao.io"
+    title: "citizens.citydao.io",
     author: "Odysseas Lamtzidis",
     url: "https://citizens.citydao.io",
     image: "./og-image.jpg",
